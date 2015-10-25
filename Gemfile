@@ -51,5 +51,13 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 #simple_form
 gem 'simple_form'
 
-#devise, creating users
+# devise, creating users
 gem 'devise'
+
+# validates url
+gem "validate_url"
+
+# nokogiri parsing html
+gem 'nokogiri'
+# utf-8 utilities
+gem 'utf8_utils'
